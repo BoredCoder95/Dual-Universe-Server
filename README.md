@@ -60,6 +60,10 @@ ConstructSpeedConfig
     maxHeavyLinearSpeedKmH: 100000 # 20000
     maxLightLinearSpeedKmH: 200000 # 50000
 
+IndustryConfig
+
+    minRecipeTime: 18 # 180
+
 TerritoriesConfig
 
     upkeepFee: 1 # 500000
