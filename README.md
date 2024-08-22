@@ -26,6 +26,16 @@ TerritoriesConfig
 </details>
 
 
+<details>
+  <summary>FeaturesList</summary>
+  <blockquote>
+
+    allowBaseShieldOnStaticConstruct: true
+    allowIndustryOnDynamicConstruct: true
+    allowMarketOnDynamicConstruct: true
+
+  </blockquote>
+</details>
 # 
 BaseItem
     Consumable
