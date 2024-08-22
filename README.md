@@ -1,4 +1,18 @@
 <details>
+  <summary>Asset</summary>
+  <blockquote>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>BaseItem</summary>
+  <blockquote>
+
+  </blockquote>
+</details>
+
+<details>
   <summary>Character</summary>
   <blockquote>
 
@@ -6,6 +20,13 @@
     defaultWallet 1000000 # 200000
     nanocrafterTimeMultiplier: 0.01 # 1.0
     calibrationGain: 1 # 0.35
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>Construct</summary>
+  <blockquote>
 
   </blockquote>
 </details>
@@ -39,6 +60,13 @@ TerritoriesConfig
 </details>
 
 <details>
+  <summary>Pet</summary>
+  <blockquote>
+
+  </blockquote>
+</details>
+
+<details>
   <summary>Talent</summary>
   <blockquote>
 
@@ -58,5 +86,12 @@ SchematicResearchTimeEfficiency
 AdvancedSchematicResearchTimeEfficiency
 
     value: -10 # -2
+  </blockquote>
+</details>
+
+<details>
+  <summary>Talent Group</summary>
+  <blockquote>
+
   </blockquote>
 </details>
