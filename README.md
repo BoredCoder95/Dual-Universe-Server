@@ -14,6 +14,7 @@
   <summary>FeaturesConfig</summary>
   <blockquote>
 ConstructSpeedConfig
+    
     maxHeavyLinearSpeedKmH: 100000 # 20000
     maxLightLinearSpeedKmH: 200000 # 50000
 
