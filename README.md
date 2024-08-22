@@ -35,7 +35,7 @@ CoreUnitStatic512
   <summary>Character</summary>
   <blockquote>
 
-    talentPointsPerSecond: 100 # 1
+    talentPointsPerSecond: 1000 # 1
     defaultWallet 1000000 # 200000
     nanocrafterTimeMultiplier: 0.01 # 1.0
     calibrationGain: 1 # 0.35
