@@ -94,22 +94,6 @@ TerritoriesConfig
   <summary>Talent</summary>
   <blockquote>
 
-SchematicCostOptimization
-
-    value: -10 # -2
-
-
-AdvancedSchematicCostOptimization
-
-    value: -10 # -2
-
-SchematicResearchTimeEfficiency
-
-    value: -10 # -2
-
-AdvancedSchematicResearchTimeEfficiency
-
-    value: -10 # -2
   </blockquote>
 </details>
 
@@ -143,6 +127,8 @@ Warp Cells
 
   </blockquote>
 </details>
+
+Schematics Deleted
 
 To Do:
 
