@@ -121,6 +121,19 @@ AdvancedSchematicResearchTimeEfficiency
 </details>
 
 
+
+
+
+
+<details>
+  <summary>Recipes</summary>
+  <blockquote>
+
+All craft times reduced by 90%
+
+  </blockquote>
+</details>
+
 To Do:
 
 Warp Cell Cost Reduction
