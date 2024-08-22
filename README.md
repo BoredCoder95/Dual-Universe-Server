@@ -1,8 +1,19 @@
 <details>
   <summary>Character</summary>
   <blockquote>
+    
+  talentPointsPerSecond: 100 # 1
+  defaultWallet 1000000 # 200000
+  nanocrafterTimeMultiplier: 0.01 # 1.0
+  calibrationGain: 1 # 0.35
 
+  </blockquote>
+</details>
 
+<details>
+  <summary>FeaturesConfig</summary>
+  <blockquote>
+    
 talentPointsPerSecond: 100 # 1
 
 defaultWallet 1000000 # 200000
@@ -12,8 +23,7 @@ nanocrafterTimeMultiplier: 0.01 # 1.0
 calibrationGain: 1 # 0.35
 
   </blockquote>
-  </details>
-
+</details>
 
 
 # 
