@@ -9,6 +9,25 @@
   <summary>BaseItem</summary>
   <blockquote>
 
+MiningUnit
+
+    calibrationCooldownHour: 0
+    calibrationDecreaseRatePerHour: 0
+    pickupCooldownHour: 0
+    runtimeHours: 0.1
+
+MiningUnitSmall1
+
+    newPlayerDefaultQty: 3 # 0
+
+TerritoriesScanner
+
+    duration: 30 # 900
+
+CoreUnitStatic512
+
+    hidden: false #true
+
   </blockquote>
 </details>
 
