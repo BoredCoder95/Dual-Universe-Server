@@ -13,13 +13,16 @@
 <details>
   <summary>FeaturesConfig</summary>
   <blockquote>
+    
 ConstructSpeedConfig
     
     maxHeavyLinearSpeedKmH: 100000 # 20000
     maxLightLinearSpeedKmH: 200000 # 50000
+    
 TerritoriesConfig
 
     upkeepFee: 1 # 500000
+    
   </blockquote>
 </details>
 
@@ -27,9 +30,11 @@ TerritoriesConfig
 <details>
   <summary>FeaturesList</summary>
   <blockquote>
+    
     allowBaseShieldOnStaticConstruct: true
     allowIndustryOnDynamicConstruct: true
     allowMarketOnDynamicConstruct: true
+    
   </blockquote>
 </details>
 # 
