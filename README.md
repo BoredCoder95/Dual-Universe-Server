@@ -29,6 +29,9 @@ CoreUnitStatic512
 
     hidden: false #true
 
+TerritoryUnitBasic
+  newPlayerDefaultQty: 10 # 0
+
   </blockquote>
 </details>
 
