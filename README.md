@@ -20,7 +20,7 @@ MiningUnitSmall1
 
     newPlayerDefaultQty: 3 # 0
 
-TerritoriesScanner
+TerritoryScanner
 
     duration: 30 # 900
 
