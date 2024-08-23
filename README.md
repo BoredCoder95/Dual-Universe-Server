@@ -115,7 +115,11 @@ TerritoriesConfig
   <summary>Recipes</summary>
   <blockquote>
 
-All craft times reduced by 90%
+    All craft times reduced by 90%
+
+  </blockquote>
+</details>
+
 
 Schematics Deleted
 
