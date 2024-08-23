@@ -67,6 +67,7 @@ IndustryConfig
 
 TerritoriesConfig
 
+    territoryUnitDeployDuration: 30 # 300
     upkeepFee: 1 # 500000
 
   </blockquote>
