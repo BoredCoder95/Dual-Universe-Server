@@ -9,6 +9,14 @@
   <summary>BaseItem</summary>
   <blockquote>
 
+Consumable
+
+    keptOnDeath: true # false
+
+Part
+
+    keptOnDeath: true # false
+
 MiningUnit
 
     calibrationCooldownHour: 0 # 24
