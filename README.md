@@ -11,10 +11,10 @@
 
 MiningUnit
 
-    calibrationCooldownHour: 0
-    calibrationDecreaseRatePerHour: 0
-    pickupCooldownHour: 0
-    runtimeHours: 0.1
+    calibrationCooldownHour: 0 # 24
+    calibrationDecreaseRatePerHour: 0 # 	0.00625
+    pickupCooldownHour: 0 # 24
+    runtimeHours: 0.1 # 1
 
 MiningUnitSmall1
 
