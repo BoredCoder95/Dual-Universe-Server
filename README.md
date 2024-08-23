@@ -127,7 +127,3 @@ TerritoriesConfig
 
 
 Schematics Deleted
-
-To Do:
-
-Warp Cell Cost Reduction
