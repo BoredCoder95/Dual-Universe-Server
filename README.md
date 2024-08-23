@@ -41,6 +41,10 @@ ContainerLarge
 
   newPlayerDefaultQty: 1 # 0
 
+CoreUnitStatic64
+
+  newPlayerDefaultQty: 1 # 0
+  
   </blockquote>
 </details>
 
