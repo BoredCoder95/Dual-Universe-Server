@@ -36,10 +36,10 @@ CoreUnitStatic512
   <blockquote>
 
     talentPointsPerSecond: 1000 # 1
+    nanopackMaxVolume: 100000 # 4000
     defaultWallet 10000000 # 200000
     nanocrafterTimeMultiplier: 0.01 # 1.0
     calibrationGain: 1 # 0.35
-     nanopackMaxVolume: 100000 # 4000
     maxHeadquarters: 10 # 3
 
   </blockquote>
