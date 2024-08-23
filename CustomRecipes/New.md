@@ -4,6 +4,7 @@
 
 Definition
 
+    CoreUnitStatic512:
     parent: CoreUnitStatic
     constructSize: 512
     displayName: Static Core Unit 256m
