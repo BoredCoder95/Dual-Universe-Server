@@ -33,6 +33,14 @@ TerritoryUnitBasic
 
   newPlayerDefaultQty: 10 # 0
 
+ContainerHub
+
+  newPlayerDefaultQty: 1 # 0
+
+ContainerLarge
+
+  newPlayerDefaultQty: 1 # 0
+
   </blockquote>
 </details>
 
