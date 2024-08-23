@@ -1,1 +1,26 @@
+<details>
+  <summary>Asset</summary>
+  <blockquote>
 
+CoreUnitStatic512
+
+    id: 1339132960
+    time: 4608
+    nanocraftable: false
+    in:
+    - component_1: 216
+    - component_2: 215
+    - powersystem_2: 250
+    - coresystem_2_l: 2
+    - standardframe_2_l: 2
+    out:
+    - CoreUnitStatic512: 1
+    industries:
+    - IndustryAssemblyL4
+    - IndustryAssemblyL3
+    - IndustryAssemblyL2
+    - IndustryAssemblyL
+
+
+  </blockquote>
+</details>
