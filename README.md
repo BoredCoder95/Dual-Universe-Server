@@ -16,12 +16,13 @@ MiningUnit
     pickupCooldownHour: 0 # 24
     runtimeHours: 0.1 # 1
 
-MiningUnitSmall1
+MiningUnitLarge1
 
-    newPlayerDefaultQty: 3 # 0
+    newPlayerDefaultQty: 4 # 0
 
 TerritoryScanner
 
+    newPlayerDefaultQty: 1 # 0
     duration: 30 # 900
 
 CoreUnitStatic512
